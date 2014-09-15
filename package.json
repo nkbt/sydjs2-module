@@ -1,0 +1,23 @@
+{
+  "name": "sydjs2-module",
+  "version": "1.0.0",
+  "description": "SydJS Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nkbt/sydjs2-module.git"
+  },
+  "keywords": [
+    "sydjs",
+    "module"
+  ],
+  "author": "Nik Butenko <nik@butenko.me> (http://butenko.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkbt/sydjs2-module/issues"
+  },
+  "homepage": "https://github.com/nkbt/sydjs2-module"
+}
