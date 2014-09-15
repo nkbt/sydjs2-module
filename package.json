@@ -1,4 +1,6 @@
 {
+  "private": true,
+
   "name": "sydjs2-module",
   "version": "1.0.0",
   "description": "SydJS Module",
